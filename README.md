@@ -21,9 +21,15 @@ Your challenge is to use satellite data to create a machine learning model that 
 
 ### Run Build
 
-`gradlew.bat build`
- 
-*For Windows
+```
+gradlew.bat build
+```
+  * for Windows
 
 ### Pre-required
 JAVA_HOME and GRADLE_HOME in your Environment Path.
+
+### Contributors
+   - Andreea-Maria Ionescu | https://github.com/andreeaionescu
+   - Vlad Airinei | https://github.com/airineivlad
+
